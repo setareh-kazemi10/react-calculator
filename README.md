@@ -143,7 +143,7 @@ This project is licensed under the MIT License.
 
 Developed as part of my React learning journey.
 
-Setareh-kazemi
+Setareh kazemi
 
 ---
 
