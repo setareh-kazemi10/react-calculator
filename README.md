@@ -48,7 +48,7 @@ Make sure you have installed:
 Clone the repository:
 
 ```bash
-git clone https://github.com/Setareh-kazemi10/react-calculator
+git clone https://github.com/Setareh-kazemi10/react-calculator.git
 ```
 
 Navigate to the project directory:
